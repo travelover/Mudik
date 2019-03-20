@@ -1,2 +1,2 @@
 # Mudik
-Mudik(Make Your Day In Korea) is service providing customized trip
+### Mudik is service providing customized trip for foreigners who visit korea
